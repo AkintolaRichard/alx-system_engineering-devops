@@ -23,3 +23,5 @@
   - Other users: all the permissions
   ```
 
+## 9-John_Doe
+- script that sets the mode of the file hello to this: -rwxr-x-wx
