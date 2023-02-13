@@ -8,3 +8,5 @@ A script that displays the content of the /etc/passwd file.
 A script that displays the content of /etc/passwd and /etc/hosts.
 # 4-lastlines 
 A script that displays the last 10 lines of /etc/passwd.
+# 5-firstlines 
+A script that displays the first 10 lines of /etc/passwd.
