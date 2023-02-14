@@ -25,3 +25,5 @@ A shell script that deletes all the regular files (not the directories) with a .
 A shell script that displays the 10 newest files in the current directory.
 # 13-unique 
 A shell script that takes a list of words as input and prints only words that appear exactly once.
+# 14-findthatword 
+A shell script that displays lines containing the pattern “root” from the file /etc/passwd
