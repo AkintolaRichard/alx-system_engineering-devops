@@ -27,3 +27,5 @@ A shell script that displays the 10 newest files in the current directory.
 A shell script that takes a list of words as input and prints only words that appear exactly once.
 # 14-findthatword 
 A shell script that displays lines containing the pattern “root” from the file /etc/passwd
+# 15-countthatword 
+A shell script that displays the number of lines that contain the pattern “bin” in the file /etc/passwd.
